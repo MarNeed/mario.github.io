@@ -1,4 +1,12 @@
-.head{
+#Pathways{
     
-    color:red;
+    width:50px;
+    width:50%;
+    
+}
+
+#text{
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
 }
